@@ -23,7 +23,7 @@ Compiling, Training, and Evaluating the Model
 * For the sixth layer, 100 neurons and the sigmoid activation function was selected
 * For the seventh layer, 100 neurons and the relu activation function was selected
 
-![alt text](Screenshot 2023-05-21 at 5.30.13 AM.png)
+![alt text](Screenshot1.png)
 
 * More neurons were added to improve the accuracy of the model, and different activation functions were used in an effort to improve accuracy
 * The target model performance was not acheived despite dropping columns, creating more bins for rare occurences in columns, decreasing the number of values in the "others" bins, and reducing the number of epoches to the training regimen
