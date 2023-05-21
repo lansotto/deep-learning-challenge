@@ -26,5 +26,7 @@ Compiling, Training, and Evaluating the Model
 * The target model performance was not acheived despite dropping columns, creating more bins for rare occurences in columns, decreasing the number of values in the "others" bins, and reducing the number of epoches to the training regimen
 
 # Summary
-Despite utlizing all methods to in an effort to optimize the performance of the machine learning model, the target of 75% accuracy was not achieved.  
+Despite utlizing all methods to in an effort to optimize the performance of the machine learning model, the target of 75% accuracy was not achieved.  An alternative model to the Sequential model is the Functional model.  It is more a more flexible API and is more advanced.  The Functional model enables users to create models ina more complex manner as it helps define multiple numbers of input and output.  The Functional model enables uers to work with multiple layers and allows layers to be shared.
+
+
 
